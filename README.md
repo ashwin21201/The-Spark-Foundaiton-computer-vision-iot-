@@ -1,1 +1,1 @@
-# The-Spark-Foundaiton-computer-vision-iot-
+# The-Spark-Foundation-computer-vision-iot-
